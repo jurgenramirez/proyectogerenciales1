@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 ~$oyecto.docx
 ~WRL0005.tmp
+=======
+*.tmp
+
+# Word temporary
+~$*.docx*
+
+# Word Auto Backup File
+Backup of *.docx*
+>>>>>>> 5b2042c549f0cfcde4e373431a801c9057fdf85b
